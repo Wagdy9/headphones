@@ -36,7 +36,7 @@
   }
   
   /* menu component 
-     =========================*/
+     =============*/
   .menu {
     min-block-size: 92px;
     margin-block-end: 266px;
@@ -148,7 +148,7 @@
   }
   
   /* button component
-     =========================*/
+     ==============*/
   .btn {
     border: none;
     border-radius: 22px;
