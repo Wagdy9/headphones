@@ -123,9 +123,9 @@
   /* hero component
      =========================*/
   .hero {
-    background-image: var(--image-small-gradiant), url("./images/headphones_hero_1.jpg");
-    background-size: 1611.54px 1074px;
-    background-position: -425.27px -99px;
+    background-image: var(--image-small-gradiant), url("../images/headphones_hero_1.jpg");
+    background-size: 100%;
+    /*background-position: -425.27px -99px;*/
     background-repeat: no-repeat;
     max-block-size: 870px;
     min-block-size: 800px;
