@@ -6,7 +6,7 @@ In this project, I will implement from scratch, without any library, a web page.
 
 Here the final result:
 
-!(https://github.com/Wagdy9/headphones/blob/main/4-index.html)
+![https://github.com/Wagdy9/headphones/blob/main/4-index.html]
 
 ***This webpage has been designed by Nicolas Philippot, UI/UX designer.***
 
