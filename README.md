@@ -1,5 +1,4 @@
 # Headphones Website
-## Headphones
 
 ## Description
 
