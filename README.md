@@ -6,7 +6,7 @@ In this project, I will implement from scratch, without any library, a web page.
 
 Here the final result:
 
-![Web page]
+!(https://github.com/Wagdy9/headphones/blob/main/4-index.html)
 
 ***This webpage has been designed by Nicolas Philippot, UI/UX designer.***
 
@@ -21,7 +21,7 @@ Here the final result:
 
 For this task, please write an amazing README.md
 
-### [1. Header](0-styles.css)
+### [1. Header]
 
 Building a web page the right way, is not easy - expect if you put in place strong foundations:
 
@@ -30,14 +30,14 @@ Building a web page the right way, is not easy - expect if you put in place stro
 * simple/“as generic as you can” CSS selectors
 * avoid as more as you can super specific CSS selector
 * simple HTML structure - div containers are your friend!
-* Last advice: I always start to build a web page from outside to inside and from top to bottom.
+* Last advice: I always start to build a web page and from top to bottom.
 
 Now, your turn!
 
 For this first task: **create the header/hero piece**
 
 
-### [2. "What we do..." section](1-styles.css)
+### [2. "What we do..." section]
 
 Copy files from the previous task.
 
@@ -45,19 +45,18 @@ For this second task: **create the “What we do…” section**
 
 **Important:** try to build as generic as you can… you will probably need some components in next section.
 
-### [3. "Our results" section](2-styles.css)
-
+### [3. "Our results" section]
 For this third task: **create the “Our results” section**
 
 Now you can reuse components form the previous task!
 
-### [4. Contact us](3-styles.css)
+### [4. Contact us]
 
 A good landing page has always a contact form.
 
 You are free to add any animations and/or constraints on fields.
 
-### [5. Footer](4-styles.css)
+### [5. Footer]
 
 ## Author
 
