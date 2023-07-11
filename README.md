@@ -62,7 +62,7 @@ You are free to add any animations and/or constraints on fields.
 
 ## Author
 
-**Wagdy Ahmed** [dantsub](https://github.com/wagdy9)
+**Wagdy Ahmed** (https://github.com/wagdy9)
 Welcome to the Headphones Website project! This is a fully functional structural website built with HTML. It showcases information about headphones, including what we do, our results, and how to contact us.
 
 ## Table of Contents
