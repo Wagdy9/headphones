@@ -921,18 +921,6 @@ span:hover {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 .tasks_container {
   display: flex;
   justify-content: space-between;
@@ -973,31 +961,16 @@ span:hover {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 .result-column {
-  /* Add any desired styles for the result column */
-
-  /* Add transition properties for smooth animation */
   transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
 .column-pentagone {
-  /* Add any desired styles for the pentagon container */
+  margin-top: 8px;
 }
 
 .column-pentagone:hover {
-  /* Define the animation styles when hovering over the pentagon container */
+
   transform: scale(1.2);
   opacity: 0.8;
-  /* Add any other desired animation properties */
 }
